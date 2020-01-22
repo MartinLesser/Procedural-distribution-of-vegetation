@@ -18,7 +18,7 @@ terrain. Based on these two maps the following calculations will be made:
 Depending on the vegetation type definition the probability for the growth will be calculated at every pixel.
 All definitions (vegetation types, bioms etc.) can be done via UI or manually within the yaml files.
 
-![appletrees_growth_probabilities_on_terrain](https://github.com/MartinLesser/Procedural-distribution-of-vegetation/blob/master/resources/screenshots/calculated_results_terrain_small_appletrees.png "Results of the calculation for the growth probability of appletrees on a terrain")  
+![appletrees_growth_probabilities_on_terrain](https://github.com/MartinLesser/Procedural-distribution-of-vegetation/blob/master/resources/screenshots/calculated_results_terrain_small_appletrees.JPG "Results of the calculation for the growth probability of appletrees on a terrain")  
 You can find more screenshots at [resources/screenshots](resources/screenshots)
 
 ## Dependencies
