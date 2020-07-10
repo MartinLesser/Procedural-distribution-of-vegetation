@@ -71,7 +71,7 @@ rise)
 - texture map path (path to the soil image)
 
 ## How to use
-You have to compile the project and execute the main file that can be found at [intern/src/python/Logic/main.py](intern/src/python/Logic/main.py).
+You have to start the main file that can be found at [intern/src/python/Logic/main.py](intern/src/python/Logic/main.py).
 
 ## Further information
 If you want more information how the system works you could read my master thesis (see [doc directory](doc/))
